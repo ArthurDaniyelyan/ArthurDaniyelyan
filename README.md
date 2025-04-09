@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arthur, an <a href="https://www.linkedin.com/in/arthur-daniyelyan/">IT Professional and GRC Professional</a></h1>
+<h1>Hi, I'm Arthur, an <a href="https://www.linkedin.com/in/arthur-daniyelyan/">IT and GRC Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
